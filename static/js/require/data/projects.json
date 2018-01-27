@@ -1,0 +1,353 @@
+[
+	{
+		"id": 1
+		, "name": "Appnexus"
+		, "slug": "appnexus"
+		, "images": {
+			"large": "static/images/large-images/appnexus-1.jpg"
+			, "tile": "static/images/tiles/appnexus-1.jpg"
+		}
+		, "type": ["Website"]
+		, "technologies": ["Drupal", "PHP"]
+		, "description": "<p><strong>AppNexus</strong> is the world leader in real-time advertising technology, serving the most sophisticated companies in the ecosystem. The AppNexus platform is the only ad server built specifically for the real-time advertising business. Composed of interoperable display advertising technologies, the customizable AppNexus platform supports the evolving needs of buyers and sellers.</p>"
+		, "url": "http://appnexus.com/"
+	}
+	,{
+		"id": 2
+		, "name": "Connection Engine"
+		, "slug": "connectionengine"
+		, "images": {
+			"large": "static/images/large-images/ce-1.jpg"
+			, "tile": "static/images/tiles/ce-1.jpg"
+		}
+		, "type": ["Website"]
+		, "technologies": ["Wordpress", "PHP"]
+		, "description": "<p>Connection Engine develops digital marketing technologies to help companies understand and reach their most valuable customers. Connecting, analyzing and taking action on consumer data is a complicated and expensive process. Their cloud-based platform makes it simple by providing instant, automated insights using billions of data points and sophisticated analytics. These insights are used to drive highly targeted customer acquisition and retention programs with proven results.</p>"
+		, "url": "http://www.connectionengine.com/"
+	}
+	,{
+		"id": 3
+		, "name": "DiBella"
+		, "slug": "dibella"
+		, "images": {
+			"large": "static/images/large-images/db-1.jpg"
+			, "tile": "static/images/tiles/db-1.jpg"
+		}
+		, "type": ["Website"]
+		, "technologies": ["Drupal", "PHP"]
+		, "description": "<p>DiBella Entertainment created a rebirth for boxing in New York City with its popular 'Broadway Boxing'. The series is the longest running and most successful boxing series in the NYC featuring up-and-coming fighters and promising contenders. DiBella Entertainment represents athletes with honesty and integrity andseeks the best and fairest financial deals for its clients.</p>"
+		, "url": "http://www.dbe1.com/"
+	}
+	,{
+		"id": 4
+		, "name": "Knewco"
+		, "slug": "knewco"
+		, "images": {
+			"large": "static/images/large-images/knewco-1.jpg"
+			, "tile": "static/images/tiles/knewco-1.jpg"
+		}
+		, "type": ["Website"]
+		, "technologies": ["Static"]
+		, "description": "<p>Knewco is a startup hell bent upon making sure that users can discover all the content they want right on the page without having to get frustrated and go to search engines and other sites.</p>"
+		, "url": "http://www.knewco.com/"
+	}
+	,{
+		"id": 5
+		, "name": "Lin Manuel"
+		, "slug": "linmanuel"
+		, "images": {
+			"large": "static/images/large-images/lmm-1.jpg"
+			, "tile": "static/images/tiles/lmm-1.jpg"
+		}
+		, "type": ["Website"]
+		, "technologies": ["Wordpress", "PHP"]
+		, "description": "<p>Lin-Manuel Miranda is the Tony-winning composer-lyricist of Broadway’s In The Heights. In The Heights received four 2008 Tony Awards (including Best Orchestrations, Best Choreography and Best Musical), with Lin-Manuel receiving a Tony Award for Best Score, as well as a nomination for Best Leading Actor in a Musical. Off-Broadway, In The Heights, received 9 Drama Desk Nominations (including Best Music, Best Lyrics) and an award for Outstanding Ensemble Performance. In The Heights also won the Lucille Lortel Award and Outer Critic’s Circle Award for Best Musical. Additionally, Lin-Manuel received an Obie Award for Outstanding Music and Lyrics for the show. In The Heights also took home a 2009 Grammy Award for its Original Broadway Cast Album. In The Heights was recognized as a Finalist for the 2009 Pulitzer Prize in Drama.</p>"
+		, "url": "http://www.linmanuel.com/"
+	}
+	,{
+		"id": 6
+		, "name": "Marathon Energy"
+		, "slug": "marathonenergy"
+		, "images": {
+			"large": "static/images/large-images/me-1.jpg"
+			, "tile": "static/images/tiles/me-1.jpg"
+		}
+		, "type": ["Website"]
+		, "technologies": ["Drupal", "PHP"]
+		, "description": "<p>Marathon Energy Corporation (formerly Olympic Flame Fuel) is a full service company serving the New York and New Jersey area. M.E is dedicated to providing their customers with the ultimate in customer service and support. Marathon Energy pride themselves on their ability to assist their customers with all of fuel oil, natural gas, electricity and heating service needs.</p>"
+		, "url": "http://www.mecny.com/"
+	}
+	,{
+		"id": 7
+		, "name": "Particle Media"
+		, "slug": "particlemedia"
+		, "images": {
+			"large": "static/images/large-images/particle-1.jpg"
+			, "tile": "static/images/tiles/particle-1.jpg"
+		}
+		, "type": ["Website"]
+		, "technologies": ["Drupal", "PHP"]
+		, "description": "<p>Particle Media is a small company that gets big attention. They’d call themselves the best-kept secret in the industry. They get asked all the time if they're an ad agency. Creative marketer is a better way to describe Particle Media. They’re proud of how much clients trust them process, their creative eye and their work ethic.</p>"
+		, "url": "http://particlemg.com/"
+	}
+	,{
+		"id": 8
+		, "name": "Swappit"
+		, "slug": "swappit"
+		, "images": {
+			"large": "static/images/large-images/swappit-1.jpg"
+			, "tile": "static/images/tiles/swappit-1.jpg"
+		}
+		, "type": ["Website"]
+		, "technologies": ["Wordpress", "PHP"]
+		, "description": "<p>Swappit is a free platform for app developers and publishers to trade mobile and/or display ads with each other to cross-promote their app, site or service. Simply put, swap the inventory you have to reach the users you need to grow your business. Swappit is an ad barter community that allows app developers and publishers to target and acquire high-quality users for free.</p>"
+		, "url": "http://swappit.com/"
+	}
+	,{
+		"id": 9
+		, "name": "Tapad"
+		, "slug": "tapad"
+		, "images": {
+			"large": "static/images/large-images/tapad-1.jpg"
+			, "tile": "static/images/tiles/tapad-1.jpg"
+		}
+		, "type": ["Website"]
+		, "technologies": ["Drupal", "PHP"]
+		, "description": "<p>Tapad.com is a corporative website made for Tapad Inc. - undisputed leader in cross-platform ad technology. The company’s groundbreaking technologies address the new and ever-evolving reality of media consumption on smartphones, tablets and home computers. Through Tapad, advertisers are now able to get a unified view of consumers across all screens. Tapad has built the most robust, real-time cross-platform audience buying technology available.</p>"
+		, "url": "http://www.tapad.com/"
+	}
+	,{
+		"id": 10
+		, "name": "TBG Group LLC"
+		, "slug": "tbggroup"
+		, "images": {
+			"large": "static/images/large-images/tbg-1.jpg"
+			, "tile": "static/images/tiles/tbg-1.jpg"
+		}
+		, "type": ["Website"]
+		, "technologies": ["Wordpress", "PHP"]
+		, "description": "<p>TBG Group LLC is a team of focused and creative event professionals with long and diverse experience running events. From major programs like President Obama’s recent Summit on Entrepreneurship to exclusive gatherings for C-level executives to large industry trade exhibitions, their proven processes ensure an exceptional experience for every audience. TBG Group employ their vast history of experience, their varied skill sets and a host of professional relationships to deliver results.</p>"
+		, "url": "http://tbgevents.com/"
+	}
+	,{
+		"id": 11
+		, "name": "Delivery Hero AU"
+		, "slug": "deliveryhero-au"
+		, "images": {
+			"large": "static/images/large-images/dh-1.jpg"
+			, "tile": "static/images/tiles/dh-1.jpg"
+		}
+		, "type": ["Application"]
+		, "technologies": ["Python", "Django", "JavaScript", "Require", "Backbone", "Jasmine"]
+		, "description": "<p>DeliveryHero.com.au is building the next generation Australasian online food ordering and lead generation platform. They are a fast paced startup located in the heart of Sydney, backed by an international network and years of experience. Delivery Hero enables customers to quickly and easily order food over the internet. With a matter of a few clicks, and supported by exceptional customer service, steaming-hot food promptly materialises at either home or office.</p>"
+		, "url": "http://www.deliveryhero.com.au/"
+	}
+	,{
+		"id": 12
+		, "name": "Delivery Hero RU"
+		, "slug": "deliveryhero-ru"
+		, "images": {
+			"large": "static/images/large-images/dh-1.jpg"
+			, "tile": "static/images/tiles/dh-1.jpg"
+		}
+		, "type": ["Application"]
+		, "technologies": ["Python", "Django", "JavaScript", "Require", "Backbone", "Jasmine"]
+		, "description": "<p>Delivero provides an opportunity to order favorite cuisine online from a lot of different restaurants. You just need to enter your post address or closest metro station in order to browse all available restaurants in your district. When you select the restaurant, it is easy to order the desired dish and make online order.</p>"
+		, "url": "http://www.delivero.ru/"
+	}
+	,{
+		"id": 13
+		, "name": "mCASH"
+		, "slug": "mcash"
+		, "images": {
+			"large": "static/images/large-images/mcash-1.jpg"
+			, "tile": "static/images/tiles/mcash-1.jpg"
+		}
+		, "type": ["Website"]
+		, "technologies": ["Python", "Django", "JavaScript"]
+		, "description": "<p>mCASH is a Norwegian payment service provider with offices in Oslo. They operate under supervision from the Financial Supervisory Authority of Norway and provide mobile payment services to people, businesses and banks.</p>"
+		, "url": "http://www.mca.sh/"
+	}
+	,{
+		"id": 14
+		, "name": "Project.net"
+		, "slug": "project-net"
+		, "images": {
+			"large": "static/images/large-images/pnet-1.jpg"
+			, "tile": "static/images/tiles/pnet-1.jpg"
+		}
+		, "type": ["Application"]
+		, "technologies": ["J2EE", "Spring", "Tapestry5", "JavaScript", "Hibernate", "ExtJs"]
+		, "description": "<p>Project.net is a complete Project Portfolio Management (PPM) solution designed to capture, display, report on, and resolve the complex interrelationships organizations tackle when planning and executing major initiatives. Project.net was developed to resolve the major shortcoming of alternatives: weak adoption by teams, leading to minimal data entered into the system, resulting in a dearth of information for decision support at all levels. Project.net delivers a rich, high-quality project management record by assuring that the team – not just management – benefits through their active collaboration through Project.net.</p>"
+		, "url": "http://project.net/"
+	}
+	,{
+		"id": 15
+		, "name": "Niski Golubovi"
+		, "slug": "niski-golubovi"
+		, "images": {
+			"large": "static/images/large-images/mladen-1.jpg"
+			, "tile": "static/images/tiles/mladen-1.jpg"
+		}
+		, "type": ["Website"]
+		, "technologies": ["Static", "JavaScript"]
+		, "description": "<p>Niski Golubovi is personal website.</p>"
+		, "url": "http://www.niski-golubovi.info/"
+	}
+	,{
+		"id": 16
+		, "name": "Design Centric"
+		, "slug": "designcentric"
+		, "images": {
+			"large": "static/images/large-images/mt-1.jpg"
+			, "tile": "static/images/tiles/mt-1.jpg"
+		}
+		, "type": ["Website"]
+		, "technologies": ["Static", "JavaScript"]
+		, "description": "<p>Design Centric is personal website developed for one great web designer.</p>"
+		, "url": "http://www.niski-golubovi.info/"
+	}
+	,{
+		"id": 17
+		, "name": "Sim Impex"
+		, "slug": "simimpex"
+		, "images": {
+			"large": "static/images/large-images/sim-1.jpg"
+			, "tile": "static/images/tiles/sim-1.jpg"
+		}
+		, "type": ["Website"]
+		, "technologies": ["Drupal", "PHP"]
+		, "description": "<p>The SIM IMPEX company was founded in 1989 in Niš as one of the first private companies in the area agricultural industry, in a period of the monopoly of the state-owned and common property in then SFRY. With the help of daring and efficient decisions, based on both moral and business principles, as well as through hiring young, educated, specialized, and ambitious employees and keeping pace with the technological innovations in the field, a strong basis for a start of a successful business-running of the SIM IMPEX company was established, taking the market as the only true standard to measure the accomplishment of long-term goal.</p>"
+		, "url": "http://www.niski-golubovi.info/"
+	}
+	,{
+		"id": 18
+		, "name": "Test Ranking"
+		, "slug": "testranking"
+		, "images": {
+			"large": "static/images/large-images/testrank-1.jpg"
+			, "tile": "static/images/tiles/testrank-1.jpg"
+		}
+		, "type": ["Application"]
+		, "technologies": ["J2EE", "Spring", "Hibernate", "JavaScript"]
+		, "description": "<p>Testranking analyzes and categorizes laptops using thousands of reviews. Make use of this objective and revolutionary method to find the right product for your needs.</p>"
+		, "url": "http://testranking.com/"
+	}
+
+	,{
+		"id": 19
+		, "name": "VIPvotes"
+		, "images": {
+			"large": "static/images/large-images/no-preview.jpg"
+			, "tile": "static/images/tiles/no-preview.jpg"
+		}
+		, "type": ["Application"]
+		, "technologies": ["J2EE", "Spring", "Hibernate", "JavaScript"]
+		, "description": "<p>VIPvotes is a J2EE web application which represents an online voting engine related to various topics (celebreties, yellow press, ...).</p>"
+		, "url": "http://www.VIPvotes.com"
+	}
+	,{
+		"id": 20
+		, "name": "WebsiteDE"
+		, "slug": "website-de"
+		, "images": {
+			"large": "static/images/large-images/websitede-1.jpg"
+			, "tile": "static/images/tiles/websitede-1.jpg"
+		}
+		, "type": ["Application"]
+		, "technologies": ["J2EE", "Spring", "Hibernate", "JavaScript"]
+		, "description": "<p>WebsiteDE is a commercial J2EE web application developed for German market.</p>"
+		, "url": "http://www.website.de/"
+	}
+	,{
+		"id": 21
+		, "name": "TxtBear"
+		, "slug": "txtbear"
+		, "images": {
+			"large": "static/images/large-images/txtbear-1.jpg"
+			, "tile": "static/images/tiles/txtbear-1.jpg"
+		}
+		, "type": ["Application"]
+		, "technologies": ["ExtJs", "JavaScript", "PHP"]
+		, "description": "<p>TxtBear is Document Managment system developed in PHP.</p>"
+		, "url": "http://www.txtbear.com/"
+	}
+	,{
+		"id": 22
+		, "name": "Why Not"
+		, "slug": "why-not"
+		, "images": {
+			"large": "static/images/large-images/no-preview.jpg"
+			, "tile": "static/images/tiles/no-preview.jpg"
+		}
+		, "type": ["Application"]
+		, "technologies": ["JavaScript", "Ruby"]
+		, "description": "<p>Why Not is a commercial web application that was developed in Ruby on Rails.</p>"
+		, "url": ""
+	}
+	,{
+		"id": 23
+		, "name": "Dashboard"
+		, "slug": "dashboard"
+		, "images": {
+			"large": "static/images/large-images/no-preview.jpg"
+			, "tile": "static/images/tiles/no-preview.jpg"
+		}
+		, "type": ["Website"]
+		, "technologies": ["Python", "Django", "JavaScript"]
+		, "description": "<p>Commercial web application for managing Non Governmental Organizations workshops. Application is developed in Python (Django).</p>"
+		, "url": ""
+	}
+	,{
+		"id": 24
+		, "name": "Uroš Lates"
+		, "slug": "uroslates"
+		, "images": {
+			"large": "static/images/large-images/uroslates-1.jpg"
+			, "tile": "static/images/tiles/uroslates-1.jpg"
+		}
+		, "type": ["Website"]
+		, "technologies": ["PHP", "Drupal", "JavaScript", "Backbone", "Require"]
+		, "description": "<p>This project represents a personal website I have developed for myself.</p>"
+		, "url": "http://uroslates.com/"
+	}
+	,{
+		"id": 25
+		, "name": "Remizijana"
+		, "slug": "remizijana"
+		, "images": {
+			"large": "static/images/large-images/remizijana-1.jpg"
+			, "tile": "static/images/tiles/remizijana-1.jpg"
+		}
+		, "type": ["Website"]
+		, "technologies": ["Django", "Python", "JavaScript"]
+		, "description": "<p>Remizijana project is a scout organization website.</p>"
+		, "url": "http://remizijana.com/"
+	}
+	,{
+		"id": 26
+		, "name": "SecWatch"
+		, "slug": "sec-watch"
+		, "images": {
+			"large": "static/images/large-images/marketbrief-1.jpg"
+			, "tile": "static/images/tiles/marketbrief-1.jpg"
+		}
+		, "type": ["Application"]
+		, "technologies": ["Java", "JavaScript"]
+		, "description": "<p>SecWatch analyzes 30,000+ trusted documents per day looking for relevant business headlines and breaking news all within fractions of a second.</p>"
+		, "url": "http://marketbrief.com/?secwatch"
+	}
+    ,{
+    	"id": 27
+		, "name": "Datapine"
+		, "slug": "datapine"
+		, "images": {
+			"large": "static/images/large-images/no-preview.jpg"
+			, "tile": "static/images/tiles/no-preview.jpg"
+		}
+		, "type": ["Application"]
+		, "technologies": ["Java", "JavaScript", "Backbone", "Require"]
+		, "description": "<p>Datapine's SaaS tool gives you the ability to quickly and intuitively explore data from your databases and create a chart or pivot table without knowing any SQL.</p>"
+		, "url": "http://www.datapine.com/"
+	}
+]

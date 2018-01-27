@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1
+		, "title": "HTML5 Drag&Drop API demo"
+		, "image": "static/images/news/post-1.jpg"
+		, "summary": "<p>Drag&Drop API is one of many great things that new HTML5 specs offers. In this post I have provided you with an example of how you might use that API to create a very basic portal.</p>"
+		, "url": "http://uroslates.wordpress.com/2013/01/15/html5-dragdrop-demo/"
+		, "publishedOn": "January 15, 2013"
+	}
+	,{
+		"id": 2
+		, "title": "URL Express CRUD Library"
+		, "image": "static/images/news/post-2.jpg"
+		, "summary": "<p>A few days ago, as a result of playing with Node, I have created and published an open source node based library called <strong>url-express-crud</strong>.</p><br/>"
+		, "url": "http://uroslates.wordpress.com/2013/01/08/url-express-crud-library/"
+		, "publishedOn": "January 8, 2013"
+	}
+	,{
+		"id": 3
+		, "title": "Playing with google maps api"
+		, "image": "static/images/news/post-3.jpg"
+		, "summary": "<p>Few months ago I had a need for building a form that has some address related logic built into it. So I was playing a bit with the Google Maps API and here is what I ended up with in the initial phase...</p>"
+		, "url": "http://uroslates.wordpress.com/2012/12/30/playing-with-google-maps-api/"
+		, "publishedOn": "December 30, 2012"
+	}
+]
