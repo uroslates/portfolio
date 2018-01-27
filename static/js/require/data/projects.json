@@ -309,7 +309,7 @@
 		, "type": ["Website"]
 		, "technologies": ["PHP", "Drupal", "JavaScript", "Backbone", "Require"]
 		, "description": "<p>This project represents a personal website I have developed for myself.</p>"
-		, "url": "http://uroslates.com/"
+		, "url": "https://uroslates.github.io/portfolio/"
 	}
 	,{
 		"id": 25
