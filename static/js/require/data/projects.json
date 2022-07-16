@@ -350,4 +350,30 @@
 		, "description": "<p>Datapine's SaaS tool gives you the ability to quickly and intuitively explore data from your databases and create a chart or pivot table without knowing any SQL.</p>"
 		, "url": "http://www.datapine.com/"
 	}
+	,{
+		"id": 28
+	      , "name": "Mapp"
+	      , "slug": "mapp"
+	      , "images": {
+		"large": "static/images/large-images/no-preview.jpg"
+		, "tile": "static/images/tiles/no-preview.jpg"
+	      }
+	      , "type": ["Application"]
+	      , "technologies": ["Java", "SpringBoot", "JavaScript", "Backbone", "Require", "Docker"]
+	      , "description": "<p>Mapp's Cloud SaaS platfrom tools lets you create personalized experiences based on who your customers are and what they want, making every touchpoint count. Makes your data understandable, accessible, and actionable by unifying it in our CDP and giving you a single customer view. It enables you to build and implement a rich cross-channel marketing strategy to improve engagement...</p>"
+	      , "url": "https://mapp.com/"
+	}
+	,{
+		"id": 29
+		, "name": "Versicherungskammer Bayern"
+		, "slug": "vkb"
+		, "images": {
+		"large": "static/images/large-images/no-preview.jpg"
+		, "tile": "static/images/tiles/no-preview.jpg"
+		}
+		, "type": ["Application"]
+		, "technologies": ["Java", "SpringBoot", "JavaScript", "Node.js", "Angular", "Kubernetes", "Docker"]
+		, "description": "<p>Doing all sorts of Versicherungskammer Bayern internal applications development. <a href=\"https://www.youtube.com/watch?v=V8WF3KtxXpw&t=62s\">Showing up</a> even in the company's talent regruiting commercials :).</p>"
+		, "url": "https://www.vkb.de/"
+	}
 ]
