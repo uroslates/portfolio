@@ -204,8 +204,8 @@
 		}
 		, "type": ["Website"]
 		, "technologies": ["Static", "JavaScript"]
-		, "description": "<p>Design Centric is personal website developed for one great web designer.</p>"
-		, "url": "http://www.niski-golubovi.info/"
+		, "description": "<p>Design Centric is a static web-designer portfolio page.</p>"
+		, "url": "https://milenalates.github.io/portfolio/"
 	}
 	,{
 		"id": 17
