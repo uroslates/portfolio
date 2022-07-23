@@ -14,16 +14,16 @@
 	}
 	,{
 		"id": 2
-		, "name": "Connection Engine"
-		, "slug": "connectionengine"
+		, "name": "Versicherungskammer Bayern"
+		, "slug": "vkb"
 		, "images": {
-			"large": "static/images/large-images/ce-1.jpg"
-			, "tile": "static/images/tiles/ce-1.jpg"
+		"large": "static/images/large-images/vkb-1.png"
+		, "tile": "static/images/tiles/vkb-1.png"
 		}
-		, "type": ["Website"]
-		, "technologies": ["Wordpress", "PHP"]
-		, "description": "<p>Connection Engine develops digital marketing technologies to help companies understand and reach their most valuable customers. Connecting, analyzing and taking action on consumer data is a complicated and expensive process. Their cloud-based platform makes it simple by providing instant, automated insights using billions of data points and sophisticated analytics. These insights are used to drive highly targeted customer acquisition and retention programs with proven results.</p>"
-		, "url": "http://www.connectionengine.com/"
+		, "type": ["Application"]
+		, "technologies": ["Java", "SpringBoot", "JavaScript", "Node.js", "Angular", "Kubernetes", "Docker"]
+		, "description": "<p>Doing all sorts of Versicherungskammer Bayern internal applications development. <a href=\"https://www.youtube.com/watch?v=V8WF3KtxXpw&t=62s\">Showing up</a> even in the company's talent regruiting commercials :).</p>"
+		, "url": "https://www.vkb.de/"
 	}
 	,{
 		"id": 3
@@ -365,15 +365,15 @@
 	}
 	,{
 		"id": 29
-		, "name": "Versicherungskammer Bayern"
-		, "slug": "vkb"
+		, "name": "Connection Engine"
+		, "slug": "connectionengine"
 		, "images": {
-		"large": "static/images/large-images/no-preview.jpg"
-		, "tile": "static/images/tiles/no-preview.jpg"
+			"large": "static/images/large-images/ce-1.jpg"
+			, "tile": "static/images/tiles/ce-1.jpg"
 		}
-		, "type": ["Application"]
-		, "technologies": ["Java", "SpringBoot", "JavaScript", "Node.js", "Angular", "Kubernetes", "Docker"]
-		, "description": "<p>Doing all sorts of Versicherungskammer Bayern internal applications development. <a href=\"https://www.youtube.com/watch?v=V8WF3KtxXpw&t=62s\">Showing up</a> even in the company's talent regruiting commercials :).</p>"
-		, "url": "https://www.vkb.de/"
+		, "type": ["Website"]
+		, "technologies": ["Wordpress", "PHP"]
+		, "description": "<p>Connection Engine develops digital marketing technologies to help companies understand and reach their most valuable customers. Connecting, analyzing and taking action on consumer data is a complicated and expensive process. Their cloud-based platform makes it simple by providing instant, automated insights using billions of data points and sophisticated analytics. These insights are used to drive highly targeted customer acquisition and retention programs with proven results.</p>"
+		, "url": "http://www.connectionengine.com/"
 	}
 ]
