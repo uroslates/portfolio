@@ -1,16 +1,16 @@
 [
 	{
 		"id": 1
-		, "name": "Appnexus"
-		, "slug": "appnexus"
-		, "images": {
-			"large": "static/images/large-images/appnexus-1.jpg"
-			, "tile": "static/images/tiles/appnexus-1.jpg"
-		}
-		, "type": ["Website"]
-		, "technologies": ["Drupal", "PHP"]
-		, "description": "<p><strong>AppNexus</strong> is the world leader in real-time advertising technology, serving the most sophisticated companies in the ecosystem. The AppNexus platform is the only ad server built specifically for the real-time advertising business. Composed of interoperable display advertising technologies, the customizable AppNexus platform supports the evolving needs of buyers and sellers.</p>"
-		, "url": "http://appnexus.com/"
+	      , "name": "Mapp"
+	      , "slug": "mapp"
+	      , "images": {
+		"large": "static/images/large-images/mapp-1.png"
+		, "tile": "static/images/tiles/mapp-1.png"
+	      }
+	      , "type": ["Application"]
+	      , "technologies": ["Java", "SpringBoot", "JavaScript", "Backbone", "Require", "Docker"]
+	      , "description": "<p>Mapp's Cloud SaaS platfrom tools lets you create personalized experiences based on who your customers are and what they want, making every touchpoint count. Makes your data understandable, accessible, and actionable by unifying it in our CDP and giving you a single customer view. It enables you to build and implement a rich cross-channel marketing strategy to improve engagement...</p>"
+	      , "url": "https://mapp.com/"
 	}
 	,{
 		"id": 2
@@ -352,16 +352,16 @@
 	}
 	,{
 		"id": 28
-	      , "name": "Mapp"
-	      , "slug": "mapp"
-	      , "images": {
-		"large": "static/images/large-images/no-preview.jpg"
-		, "tile": "static/images/tiles/no-preview.jpg"
-	      }
-	      , "type": ["Application"]
-	      , "technologies": ["Java", "SpringBoot", "JavaScript", "Backbone", "Require", "Docker"]
-	      , "description": "<p>Mapp's Cloud SaaS platfrom tools lets you create personalized experiences based on who your customers are and what they want, making every touchpoint count. Makes your data understandable, accessible, and actionable by unifying it in our CDP and giving you a single customer view. It enables you to build and implement a rich cross-channel marketing strategy to improve engagement...</p>"
-	      , "url": "https://mapp.com/"
+		, "name": "Appnexus"
+		, "slug": "appnexus"
+		, "images": {
+			"large": "static/images/large-images/appnexus-1.jpg"
+			, "tile": "static/images/tiles/appnexus-1.jpg"
+		}
+		, "type": ["Website"]
+		, "technologies": ["Drupal", "PHP"]
+		, "description": "<p><strong>AppNexus</strong> is the world leader in real-time advertising technology, serving the most sophisticated companies in the ecosystem. The AppNexus platform is the only ad server built specifically for the real-time advertising business. Composed of interoperable display advertising technologies, the customizable AppNexus platform supports the evolving needs of buyers and sellers.</p>"
+		, "url": "http://appnexus.com/"	
 	}
 	,{
 		"id": 29
