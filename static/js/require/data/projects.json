@@ -21,7 +21,7 @@
 		, "tile": "static/images/tiles/vkb-1.png"
 		}
 		, "type": ["Application"]
-		, "technologies": ["Java", "SpringBoot", "JavaScript", "Node.js", "Angular", "Kubernetes", "Docker"]
+		, "technologies": ["Java", "SpringBoot", "JavaScript", "Angular", "Kubernetes"]
 		, "description": "<p>Doing all sorts of Versicherungskammer Bayern internal applications development. <a href=\"https://www.youtube.com/watch?v=V8WF3KtxXpw&t=62s\">Showing up</a> even in the company's talent regruiting commercials :).</p>"
 		, "url": "https://www.vkb.de/"
 	}
